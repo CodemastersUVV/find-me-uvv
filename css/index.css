@@ -1,0 +1,62 @@
+.navbar-brand {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.navbar-toggle {
+    z-index:3;
+}
+
+
+.banner {
+    background-image: url(../img/background-web.png);
+    background-size: cover;
+    height: 400px;
+    padding-bottom: 50px;
+    padding-top: 80px;
+}
+
+#logo_banner{
+    max-height: 130px;
+    max-width: 300px;
+    width: auto;
+    height: auto;
+}
+
+.intro_banner {
+    text-align: center;
+}
+
+.divisor_banner {
+    width: 30%;
+}
+
+.divisor_info1 {
+    width: 40%;
+    border: 2px solid  #aebee9;
+}
+
+.divisor_info2 {
+    width: 40%;
+    border: 2px solid white;
+}
+
+.infos {
+    text-align: center;
+}
+
+.info2 {
+    background-color: #aebee9;
+}
+
+#iconInfo1 {
+    height: 180px;
+}
+
+.video{
+    text-align: center;
+}
